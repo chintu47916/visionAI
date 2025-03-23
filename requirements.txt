@@ -1,0 +1,14 @@
+streamlit
+cv2
+numpy
+face_recognition
+os
+pickle
+speech_recognition
+gtts
+pygame
+time
+tempfile
+torch
+torchvision
+PIL
